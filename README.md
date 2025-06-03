@@ -71,7 +71,9 @@ Dalam era digital, ulasan pengguna menjadi indikator penting bagi kualitas dan k
    cd Proyek-Analisis-Sentimen
 
 2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
 
 3. Jalankan aplikasi Streamlit:
+   ```bash
    streamlit run app.py
